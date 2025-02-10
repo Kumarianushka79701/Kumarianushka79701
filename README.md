@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anushka Kumari
-- 👀 I’m interested in Devlopment
+- 👀 I’m interested in Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -Kumarianushka79701
